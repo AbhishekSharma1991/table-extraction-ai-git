@@ -1,0 +1,11 @@
+INPUT_FOLDER = "input"
+
+OUTPUT_FOLDER = "output"
+
+LOG_LEVEL = "INFO"
+
+USE_OCR = True
+
+EXPORT_JSON = True
+
+EXPORT_CSV = True

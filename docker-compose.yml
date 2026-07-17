@@ -1,0 +1,15 @@
+version: "3.9"
+
+services:
+
+  table-extractor:
+
+    build: .
+
+    volumes:
+
+      - ./input:/app/input
+
+      - ./output:/app/output
+
+    command: python src/main.py

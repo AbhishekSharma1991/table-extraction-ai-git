@@ -1,0 +1,147 @@
+2026-07-13 22:57:11,439 | INFO | doc_02.pdf detected as digital PDF
+2026-07-13 22:57:12,072 | INFO | 2 tables extracted
+2026-07-13 22:57:12,078 | INFO | Table 1 cleaned
+2026-07-13 22:57:12,084 | INFO | Table 2 cleaned
+2026-07-13 22:57:12,085 | INFO | 2 tables after merging
+2026-07-13 22:57:12,090 | INFO | Table 1 exported to CSV
+2026-07-13 22:57:12,091 | INFO | Table 2 exported to CSV
+2026-07-13 22:57:12,092 | INFO | All tables exported to JSON
+2026-07-13 22:57:12,163 | INFO | doc_03.pdf detected as digital PDF
+2026-07-13 22:57:12,820 | INFO | 2 tables extracted
+2026-07-13 22:57:12,824 | INFO | Table 1 cleaned
+2026-07-13 22:57:12,828 | INFO | Table 2 cleaned
+2026-07-13 22:57:12,830 | INFO | 1 tables after merging
+2026-07-13 22:57:12,831 | INFO | Table 1 exported to CSV
+2026-07-13 22:57:12,832 | INFO | All tables exported to JSON
+2026-07-13 22:57:12,858 | INFO | doc_01.pdf detected as digital PDF
+2026-07-13 22:57:13,174 | INFO | 1 tables extracted
+2026-07-13 22:57:13,177 | INFO | Table 1 cleaned
+2026-07-13 22:57:13,177 | INFO | 1 tables after merging
+2026-07-13 22:57:13,178 | INFO | Table 1 exported to CSV
+2026-07-13 22:57:13,179 | INFO | All tables exported to JSON
+2026-07-13 22:57:41,814 | INFO | doc_02.pdf detected as digital PDF
+2026-07-13 22:57:42,369 | INFO | 2 tables extracted
+2026-07-13 22:57:42,375 | INFO | Table 1 cleaned
+2026-07-13 22:57:42,379 | INFO | Table 2 cleaned
+2026-07-13 22:57:42,380 | INFO | 2 tables after merging
+2026-07-13 22:57:42,383 | INFO | Table 1 exported to CSV
+2026-07-13 22:57:42,385 | INFO | Table 2 exported to CSV
+2026-07-13 22:57:42,386 | INFO | All tables exported to JSON
+2026-07-13 22:57:42,456 | INFO | doc_03.pdf detected as digital PDF
+2026-07-13 22:57:43,145 | INFO | 2 tables extracted
+2026-07-13 22:57:43,148 | INFO | Table 1 cleaned
+2026-07-13 22:57:43,154 | INFO | Table 2 cleaned
+2026-07-13 22:57:43,154 | INFO | 1 tables after merging
+2026-07-13 22:57:43,156 | INFO | Table 1 exported to CSV
+2026-07-13 22:57:43,157 | INFO | All tables exported to JSON
+2026-07-13 22:57:43,187 | INFO | doc_01.pdf detected as digital PDF
+2026-07-13 22:57:43,499 | INFO | 1 tables extracted
+2026-07-13 22:57:43,502 | INFO | Table 1 cleaned
+2026-07-13 22:57:43,502 | INFO | 1 tables after merging
+2026-07-13 22:57:43,503 | INFO | Table 1 exported to CSV
+2026-07-13 22:57:43,504 | INFO | All tables exported to JSON
+2026-07-16 16:55:40,561 | INFO | doc_02.pdf detected as digital PDF
+2026-07-16 16:55:41,502 | INFO | 2 tables extracted
+2026-07-16 16:55:41,507 | INFO | Table 1 cleaned
+2026-07-16 16:55:41,513 | INFO | Table 2 cleaned
+2026-07-16 16:55:41,513 | INFO | 2 tables after merging
+2026-07-16 16:55:41,517 | INFO | Table 1 exported to CSV
+2026-07-16 16:55:41,518 | INFO | Table 2 exported to CSV
+2026-07-16 16:55:41,520 | INFO | All tables exported to JSON
+2026-07-16 16:55:41,584 | INFO | doc_03.pdf detected as digital PDF
+2026-07-16 16:55:42,204 | INFO | 2 tables extracted
+2026-07-16 16:55:42,209 | INFO | Table 1 cleaned
+2026-07-16 16:55:42,212 | INFO | Table 2 cleaned
+2026-07-16 16:55:42,215 | INFO | 1 tables after merging
+2026-07-16 16:55:42,217 | INFO | Table 1 exported to CSV
+2026-07-16 16:55:42,219 | INFO | All tables exported to JSON
+2026-07-16 16:55:42,248 | INFO | doc_01.pdf detected as digital PDF
+2026-07-16 16:55:42,537 | INFO | 1 tables extracted
+2026-07-16 16:55:42,540 | INFO | Table 1 cleaned
+2026-07-16 16:55:42,540 | INFO | 1 tables after merging
+2026-07-16 16:55:42,541 | INFO | Table 1 exported to CSV
+2026-07-16 16:55:42,544 | INFO | All tables exported to JSON
+2026-07-16 17:35:55,842 | INFO | doc_02.pdf detected as digital PDF
+2026-07-16 17:35:56,588 | INFO | 2 tables extracted
+2026-07-16 17:35:56,593 | INFO | Table 1 cleaned
+2026-07-16 17:35:56,598 | INFO | Table 2 cleaned
+2026-07-16 17:35:56,598 | INFO | 2 tables after merging
+2026-07-16 17:35:56,602 | INFO | Table 1 exported to CSV
+2026-07-16 17:35:56,604 | INFO | Table 2 exported to CSV
+2026-07-16 17:35:56,605 | INFO | All tables exported to JSON
+2026-07-16 17:35:56,666 | INFO | doc_03.pdf detected as digital PDF
+2026-07-16 17:35:57,281 | INFO | 2 tables extracted
+2026-07-16 17:35:57,285 | INFO | Table 1 cleaned
+2026-07-16 17:35:57,290 | INFO | Table 2 cleaned
+2026-07-16 17:35:57,292 | INFO | 1 tables after merging
+2026-07-16 17:35:57,294 | INFO | Table 1 exported to CSV
+2026-07-16 17:35:57,296 | INFO | All tables exported to JSON
+2026-07-16 17:35:57,325 | INFO | doc_01.pdf detected as digital PDF
+2026-07-16 17:35:57,629 | INFO | 1 tables extracted
+2026-07-16 17:35:57,632 | INFO | Table 1 cleaned
+2026-07-16 17:35:57,632 | INFO | 1 tables after merging
+2026-07-16 17:35:57,634 | INFO | Table 1 exported to CSV
+2026-07-16 17:35:57,636 | INFO | All tables exported to JSON
+2026-07-16 17:36:13,765 | INFO | doc_02.pdf detected as digital PDF
+2026-07-16 17:36:14,149 | INFO | 2 tables extracted
+2026-07-16 17:36:14,153 | INFO | Table 1 cleaned
+2026-07-16 17:36:14,156 | INFO | Table 2 cleaned
+2026-07-16 17:36:14,156 | INFO | 2 tables after merging
+2026-07-16 17:36:14,159 | INFO | Table 1 exported to CSV
+2026-07-16 17:36:14,161 | INFO | Table 2 exported to CSV
+2026-07-16 17:36:14,162 | INFO | All tables exported to JSON
+2026-07-16 17:36:14,224 | INFO | doc_03.pdf detected as digital PDF
+2026-07-16 17:36:14,833 | INFO | 2 tables extracted
+2026-07-16 17:36:14,836 | INFO | Table 1 cleaned
+2026-07-16 17:36:14,839 | INFO | Table 2 cleaned
+2026-07-16 17:36:14,839 | INFO | 1 tables after merging
+2026-07-16 17:36:14,841 | INFO | Table 1 exported to CSV
+2026-07-16 17:36:14,842 | INFO | All tables exported to JSON
+2026-07-16 17:36:14,869 | INFO | doc_01.pdf detected as digital PDF
+2026-07-16 17:36:15,179 | INFO | 1 tables extracted
+2026-07-16 17:36:15,182 | INFO | Table 1 cleaned
+2026-07-16 17:36:15,182 | INFO | 1 tables after merging
+2026-07-16 17:36:15,183 | INFO | Table 1 exported to CSV
+2026-07-16 17:36:15,184 | INFO | All tables exported to JSON
+2026-07-17 14:21:22,755 | INFO | doc_02.pdf detected as digital PDF
+2026-07-17 14:21:23,813 | INFO | 2 tables extracted
+2026-07-17 14:21:23,818 | INFO | Table 1 cleaned
+2026-07-17 14:21:23,822 | INFO | Table 2 cleaned
+2026-07-17 14:21:23,823 | INFO | 2 tables after merging
+2026-07-17 14:21:23,828 | INFO | Table 1 exported to CSV
+2026-07-17 14:21:23,830 | INFO | Table 2 exported to CSV
+2026-07-17 14:21:23,830 | INFO | All tables exported to JSON
+2026-07-17 14:21:23,903 | INFO | doc_03.pdf detected as digital PDF
+2026-07-17 14:21:24,601 | INFO | 2 tables extracted
+2026-07-17 14:21:24,606 | INFO | Table 1 cleaned
+2026-07-17 14:21:24,614 | INFO | Table 2 cleaned
+2026-07-17 14:21:24,615 | INFO | 1 tables after merging
+2026-07-17 14:21:24,617 | INFO | Table 1 exported to CSV
+2026-07-17 14:21:24,619 | INFO | All tables exported to JSON
+2026-07-17 14:21:24,668 | INFO | doc_01.pdf detected as digital PDF
+2026-07-17 14:21:25,050 | INFO | 1 tables extracted
+2026-07-17 14:21:25,053 | INFO | Table 1 cleaned
+2026-07-17 14:21:25,053 | INFO | 1 tables after merging
+2026-07-17 14:21:25,054 | INFO | Table 1 exported to CSV
+2026-07-17 14:21:25,055 | INFO | All tables exported to JSON
+2026-07-17 14:22:16,869 | INFO | doc_02.pdf detected as digital PDF
+2026-07-17 14:22:17,270 | INFO | 2 tables extracted
+2026-07-17 14:22:17,274 | INFO | Table 1 cleaned
+2026-07-17 14:22:17,278 | INFO | Table 2 cleaned
+2026-07-17 14:22:17,293 | INFO | 2 tables after merging
+2026-07-17 14:22:17,295 | INFO | Table 1 exported to CSV
+2026-07-17 14:22:17,297 | INFO | Table 2 exported to CSV
+2026-07-17 14:22:17,299 | INFO | All tables exported to JSON
+2026-07-17 14:22:17,368 | INFO | doc_03.pdf detected as digital PDF
+2026-07-17 14:22:17,991 | INFO | 2 tables extracted
+2026-07-17 14:22:17,994 | INFO | Table 1 cleaned
+2026-07-17 14:22:17,998 | INFO | Table 2 cleaned
+2026-07-17 14:22:18,010 | INFO | 1 tables after merging
+2026-07-17 14:22:18,013 | INFO | Table 1 exported to CSV
+2026-07-17 14:22:18,014 | INFO | All tables exported to JSON
+2026-07-17 14:22:18,050 | INFO | doc_01.pdf detected as digital PDF
+2026-07-17 14:22:18,345 | INFO | 1 tables extracted
+2026-07-17 14:22:18,348 | INFO | Table 1 cleaned
+2026-07-17 14:22:18,353 | INFO | 1 tables after merging
+2026-07-17 14:22:18,354 | INFO | Table 1 exported to CSV
+2026-07-17 14:22:18,356 | INFO | All tables exported to JSON
